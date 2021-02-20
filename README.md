@@ -1,4 +1,4 @@
-#Descripción
+Descripción
 Esta es mi página web que servirá como portfolio y en unos días estará disponible como www.mariaceromestant.com, ésto forma parte de la entrega final del curso de Desarrolladora Web Jr. de BeJob Santillana.
 
 Tiempo de programación ⏰
