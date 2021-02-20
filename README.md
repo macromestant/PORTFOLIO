@@ -11,6 +11,8 @@ Ha sido desarrollado en unas 12 horas a lo largo de 5 días, intentando lograr e
 [HTML5]
 [CSS]
 [SASS]
+[JS]
+[TS]
 
 'Desarrollado con 🛠️'
 
