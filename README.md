@@ -23,7 +23,7 @@ Ha sido desarrollado en unas 12 horas a lo largo de 5 días, intentando lograr e
 Mariace Romestant
 
 [Github] (https://github.com/macromestant)
-[LinkedIn] ()
+[LinkedIn] (www.linkedin.com/in/mariaceromestant)
 
 'Licencia 📄'
 
