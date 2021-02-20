@@ -23,9 +23,9 @@ Mariace Romestant
 [Github] (https://github.com/macromestant)
 [LinkedIn] ()
 
-1Licencia 📄'
-MIT License
+'Licencia 📄'
 
+MIT License
 
 'Agradecimientos ❤'
 
