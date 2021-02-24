@@ -297,6 +297,12 @@ body {
 
 }
 
+@media screen and (max-width: 900px){
+  .trabajos__grid{
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
 .trabajos__article{
   width: 50%;
   padding-top: 1em;
@@ -309,8 +315,8 @@ body {
 }
 
 .trabajos__img:hover{
-  -webkit-transform:scale(1.2);
-  transform:scale(1.2);
+  /* -webkit-transform:scale(1.2);
+  transform:scale(1.2); */
   border-radius:50%;
   -webkit-border-radius:50%;
 }
@@ -355,7 +361,7 @@ body {
 .lenguajes__logo{} */
 
 .lenguajes__img{
-  width: 10%;
+  width: 50%;
   padding: 1em 1em;
   display: inline-flex;
   justify-items: center;
